@@ -1,1 +1,2 @@
 # Coffee_Shop_Sales
+In this Project I designed a dashboard releated to Coffee Shop sales. Enabled slicers of Month name and Days name to track monthly sales and generate KPIs like Total sales, Total footfall, Average bill per person, Average orders per person to get better insights of business. Also designed dynamic charts such as Quantity orders based on sales, Categories distribution, Size distribution based on orders, Top 5 Products, footfall and sales over various store locations, orders on weekdays based on sales.
